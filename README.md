@@ -4,8 +4,12 @@
 ```
 yarn install
 ```
+### Run tests
+```
+yarn test
+```
 
-### Compiles and hot-reloads for development
+### Run Application
 ```
 yarn serve
 ```
@@ -13,11 +17,6 @@ yarn serve
 ### Compiles and minifies for production
 ```
 yarn build
-```
-
-### Run your tests
-```
-yarn test
 ```
 
 ### Lints and fixes files
